@@ -7,4 +7,4 @@
 - javascript 
 - html
 
-### [credits by](https://www.youtube.com/watch?v=vyqbNFMDRGQ&t=111s);
+### [credits by](https://www.youtube.com/watch?v=vyqbNFMDRGQ&t=111s){:target="_blank"};
